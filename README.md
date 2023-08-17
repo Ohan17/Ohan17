@@ -1,4 +1,4 @@
-Hi, I'm Nam Hoang, a software engineer graduate from HCM University of Technology. I'm a passionate indie [game developer](https://ohan.itch.io/). I take great care in the experience, architecture, performance and code quality of the things I build.
+Hi, I'm Nam Hoang, a software engineer graduate from HCM University of Technology. I'm a passionate software engineer and indie [game developer](https://ohan.itch.io/). I take great care in the experience, architecture, performance and code quality of the things I build.
 
 📈 my github stats
 
