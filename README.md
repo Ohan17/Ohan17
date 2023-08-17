@@ -2,7 +2,7 @@ Hi, I'm Nam Hoang, a software engineer graduate from HCM University of Technolog
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ohan17&show_icons=true&theme=gotham&hide_rank=true&hide=stars" alt="ohan17" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ohan17&show_icons=true&theme=gotham&hide=stars&rank_icon=github" alt="ohan17" />
 
 <!--
 **Ohan17/Ohan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
