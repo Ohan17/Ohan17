@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, I'm Nam Hoang, a software engineer graduate from HCM University of Technology. I'm a passionate indie [game developer](https://ohan.itch.io/). I take great care in the experience, architecture, performance and code quality of the things I build.
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ohan17&show_icons=true&theme=gotham&hide_rank=true&hide=stars" alt="ohan17" />
 
 <!--
 **Ohan17/Ohan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
